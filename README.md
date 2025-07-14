@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Java Bookstore System
 
 This is a simple **Bookstore System** developed in Java using Notepad as part of my academic project.  
