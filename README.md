@@ -45,7 +45,3 @@ It features a basic inventory system to record book names and prices, along with
    java bookstore
 
    ```
-=======
-# Java-BookStore-System
-A simply BookStore system build using Notepad and Java during college
->>>>>>> ee5338f6cd10e9efb5497510432a08673a26c643
